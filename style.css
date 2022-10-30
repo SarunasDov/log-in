@@ -73,7 +73,7 @@ body {
 .form--heading {
   font-size: 25px;
   height: 50px;
-  color: #8288ff;
+  color: #ce4611;
   font-family: "Source Sans Pro", sans-serif;
 }
 .form--signup {
@@ -92,7 +92,7 @@ form input {
   border-bottom: 1px solid #aaa;
   font-size: 13px;
   font-weight: 300;
-  color: #797a9e;
+  color: #f18b63;
   letter-spacing: 0.11em;
   background-color: #f2eee3;
 }
@@ -102,7 +102,7 @@ form input::placeholder {
 }
 form input:focus {
   outline: 0;
-  border-bottom: 1px solid rgba(128, 155, 206, 0.7);
+  border-bottom: 1px solid rgba(240, 83, 63, 0.7);
   transition: 0.6s all ease;
 }
 
@@ -116,7 +116,7 @@ form input:focus {
   font-weight: 400;
   position: relative;
   z-index: 3;
-  background: #8288ff;
+  background: #ffa582;
   font-family: "Source Sans Pro", sans-serif;
   cursor: pointer;
   border-radius: 5px;
